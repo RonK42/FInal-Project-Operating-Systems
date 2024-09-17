@@ -1,0 +1,7 @@
+Branch ID: 1
+Address: Tel Aviv
+Number of Clerks: 4
+Clerk ID: 666777, Name: Braha, Position: 2
+Clerk ID: 777666, Name: Tomy, Position: 3
+Clerk ID: 888555, Name: Pini, Position: 3
+Clerk ID: 666777, Name: Shlomo, Position: 3
